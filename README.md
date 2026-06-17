@@ -1,10 +1,11 @@
 # <div align="center">
 
-# Ravi Teja
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:9333EA&height=280&section=header&text=Ravi%20Teja&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
-### Business Intelligence & Data Analyst
+<h3>Business Intelligence & Data Analyst</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Tableau+%E2%80%A2+Power+BI+%E2%80%A2+SQL;AWS+Certified+Data+Engineer;Reporting+Automation+Specialist;Building+Enterprise+Analytics+Solutions"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Tableau+•+Power+BI+•+SQL;AWS+Certified+Data+Engineer;Reporting+Automation+Specialist;Building+Enterprise+Analytics+Solutions"/>
+
 
 <p align="center">
 
