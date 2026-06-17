@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:312E81,50:6D28D9,100:8B5CF6&text=Ravi%20Teja&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Business%20Intelligence%20%26%20Data%20Analyst&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Business+Intelligence+Engineer;Senior+Data+Analyst;Analytics+Engineer;Tableau+%7C+Power+BI+%7C+SQL+Expert;AWS+Certified+Data+Engineer;Building+Scalable+Analytics+Solutions"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Business+Intelligence+%26+Data+Analyst;Tableau+%E2%80%A2+Power+BI+%E2%80%A2+SQL;AWS+Certified+Data+Engineer;Reporting+Automation+Specialist;Building+Enterprise+Analytics+Solutions"/>
 
 <p align="center">
 
@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/M.S.-Business_Analytics-4F46E5?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Arizona_State_University-Business_Intelligence_%26_Data_Analyst_II-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arizona_State_University-Business_Intelligence_%26_Data_Analyst-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Arizona-USA-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
@@ -50,7 +50,7 @@
 
 ---
 
-# About Me
+# Professional Summary
 
 I am a **Business Intelligence Engineer and Senior Data Analyst** with 5+ years of experience delivering enterprise-scale analytics, reporting automation, dashboard engineering, and business intelligence solutions across higher education, telecommunications, banking, and finance domains.
 
@@ -90,8 +90,7 @@ I specialize in designing data-driven solutions that improve operational visibil
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,sql,bash"/>
-
+<img src="https://skillicons.dev/icons?i=python,postgres,bash"/>
 </p>
 
 <p align="center">
