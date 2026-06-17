@@ -1,6 +1,6 @@
 # <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:312E81,50:6D28D9,100:8B5CF6&text=Ravi%20Teja&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn&desc=desc=Business%20Intelligence%20%26%20Data%20Analyst&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:312E81,50:6D28D9,100:8B5CF6&text=Ravi%20Teja&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn&desc=Business%20Intelligence%20%26%20Data%20Analyst&descAlignY=60"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Business+Intelligence+Engineer;Senior+Data+Analyst;Analytics+Engineer;Tableau+%7C+Power+BI+%7C+SQL+Expert;AWS+Certified+Data+Engineer;Building+Scalable+Analytics+Solutions"/>
 
