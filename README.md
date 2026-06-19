@@ -180,6 +180,36 @@ I specialize in designing data-driven solutions that improve operational visibil
 ---
 
 # Featured Analytics Initiatives
+<details>
+<summary><b>Retail Sales Data Warehouse & Executive Dashboard</b></summary>
+
+### Portfolio Project
+
+An end-to-end analytics project built using Python, PostgreSQL, SQL, and Tableau to transform retail sales data into a structured warehouse and executive dashboard.
+
+#### Highlights
+
+* Built Python ETL pipelines using Pandas
+* Designed a PostgreSQL retail sales warehouse
+* Developed SQL KPI reporting and analytics
+* Created an executive Tableau dashboard
+* Analyzed $2.3M+ in revenue across 5,009 orders
+* Delivered insights on customer segments, product performance, and regional sales trends
+
+  #### Key Results
+
+- Revenue Analyzed: $2.30M
+- Total Orders: 5,009
+- Profit Generated: $286K
+- Profit Margin: 12.47%
+
+#### Links
+
+- 📂 Repository: https://github.com/Ravi1294-da/retail-sales-data-warehouse
+- 📊 Tableau Dashboard: https://public.tableau.com/app/profile/ravi.teja.venigalla/viz/Retailssalesdashboard/ExecutiveSalesDashboard
+
+</details>
+
 
 <details>
 <summary><b>Enterprise Enrollment Analytics Platform</b></summary>
