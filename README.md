@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:9333EA&height=280&section=header&text=Ravi%20Teja&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
-<h3>Business Intelligence & Data Analyst</h3>
+<h3>Business Intelligence Engineer | Data Analyst</h3>
 
 <p align="center">
 
